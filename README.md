@@ -8,3 +8,6 @@ first game for my daughter
 10-15，重新安装了ubuntu、vscode、等相关工作环境;
 搭建最小系统代码
 
+## 10-16 进行小鸡扣图
+
+
